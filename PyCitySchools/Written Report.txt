@@ -1,0 +1,8 @@
+Written Report
+
+In this analysis we analyzed the district wide standardized test results. Starting up the student and school data were merged to compare. In the district summary we created a dataframe with different calculations to find overall totals of the student body with the average of their respective test scores. In the school summary dataframe we analyzed and sorted the school information to use later on to find other calculations. The main purpose of the first two dataframes were to match respective test scores to student's and to the school they belong to organize the data by school name and compare. In the highest-performing and lowest-performing data frames we found overall passing rates where we sorted the data to list schools according to highest percentages or lowest. In the Math, Reading, and scores by school we organized data more in depth to better match the population of students according to the grade they are in. Lastly, in the scores by school size and by type data frames we created an overall summary to display the school performances according to the calculations we previously found. 
+
+
+Draws two correct conclusions or comparisons from the calculations:
+
+Small and medium schools tendend to perform better overall than large schools. Regardless of large schools having a higher school budget when it came down to the per student budget did at times fall lower than the per student budget for small or medium schools. It can be concluded that students from small or medium schools performed better in Reading and Math due to availability of resources. Students in large schools fell short with higher volume of students reducing the amount of resources. 
